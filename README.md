@@ -1,4 +1,4 @@
-# castroc
+# castroc | Alan Abiud Castro Cruz | 19100159
 ## Repositorio de la materia: "Topicos avanzados de programacion".
 Componentes del repositorio:  
 - Tarea3: Programa que genera la serie fibonacci por medio de un ciclo for, a manera de consola.  
